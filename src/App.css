@@ -1,0 +1,10 @@
+.flexbox {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flexbox h2 {
+    width: 50%;
+}
